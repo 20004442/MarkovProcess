@@ -25,7 +25,7 @@ Assumptions for Markov Chain :
 
 # Program
 ```
-\*
+/*
 Developed by: B.Kavya
 Registration number: 212220230007
 */
